@@ -9,6 +9,7 @@ body {
 .container {
     margin: 0 24px;
     min-width: 300px;
+    max-width: 600px;
     width: 50%;
 }
 
