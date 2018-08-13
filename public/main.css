@@ -27,12 +27,12 @@ body {
     margin: 10px 0;
     padding: .35em .75em;
     border: 1px solid rgba(0,0,0,.5);
-    border-radius: 2px;
+    border-radius: 5px;
 }
 
 .form__textarea {
     font-family: sans-serif;
-    resize: vertical;
+    resize: none;
     min-height: 200px;
     max-height: 600px;
 }
